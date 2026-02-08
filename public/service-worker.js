@@ -1,0 +1,1 @@
+// Ce fichier est volontairement vide. Le service worker est généré automatiquement par vite-plugin-pwa.

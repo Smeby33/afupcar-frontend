@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react-jsx"
+  },
+  "include": ["./**/*.jsx", "./**/*.tsx", "../components/owner/ReadsOwner.tsx"]
+}
