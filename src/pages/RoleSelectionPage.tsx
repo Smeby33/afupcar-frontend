@@ -21,7 +21,7 @@ const RoleSelectionPage: React.FC = () => {
       <div className="flex justify-between items-center mb-8">
         <div>
           <h2 className="text-1xl font-bold text-gray-800">
-            S'inscrire sur DriveGab en tant que ?
+            S'inscrire sur Lotu en tant que ?
           </h2>
           <p className="text-gray-600">Sélectionnez votre rôle ici</p>
         </div>

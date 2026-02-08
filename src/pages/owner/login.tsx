@@ -131,8 +131,8 @@ const OwnerAuth: React.FC = () => {
           </h1>
           <p className="text-gray-400 mt-2">
             {isRegister
-              ? 'Commencez à louer vos véhicules sur DriveGab '
-              : 'Accédez à votre espace propriétaire DriveGab '}
+              ? 'Commencez à louer vos véhicules sur Lotu '
+              : 'Accédez à votre espace propriétaire Lotu '}
           </p>
         </div>
         {isRegister ? (
